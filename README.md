@@ -1,4 +1,4 @@
-A simple Chess Game Developed Completely using java language, this jess gam implement the basic Roles like: 
+A simple Chess Game Developed Completely using java language, this game implement the basic functions like: 
 1. pieces movement 
 2. checks and checkmate 
 3. Pins 
