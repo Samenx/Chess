@@ -8,6 +8,6 @@ A simple Chess Game Developed Completely using java language, this game implemen
 7. castling 
 
 
-it does not have a bot or AI yet! but it coming Soon 
+it does not have a bot or AI yet! coming Soon 
 
-to play and download the game: https://samen05.itch.io/simple-chess
+ play and download the game: https://samen05.itch.io/simple-chess
